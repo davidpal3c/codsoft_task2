@@ -86,7 +86,7 @@ li .edit, li .delete {
     padding: 7px;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: background-color 0.4s;
 }
 
 li .edit {
